@@ -1,0 +1,102 @@
+Jornada 1: Unicaja Baloncesto - FC Barcelona Baloncesto (79-69). 
+     MVP: Kendrick Perry (Unicaja Baloncesto) || PTS: 23 | AST: 4 | REB: 3
+
+Jornada 2: Bàsquet Club Andorra - FC Barcelona Baloncesto (86-88). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 23 | AST: 2 | REB: 7
+
+Jornada 3: FC Barcelona Baloncesto - Saski Baskonia (81-91). 
+     MVP: Chima Moneke (Saski Baskonia) || PTS: 32 | AST: 2 | REB: 11
+
+Jornada 4: Club Baloncesto Gran Canaria - FC Barcelona Baloncesto (78-95). 
+     MVP: Willy Hernangómez (FC Barcelona Baloncesto) || PTS: 30 | AST: 2 | REB: 12
+
+Jornada 5: FC Barcelona Baloncesto - Club Joventut Badalona (76-83). 
+     MVP: Artem Pustovyi (Club Joventut Badalona) || PTS: 23 | AST: 11 | REB: 11
+
+Jornada 6: Club Baloncesto Breogán - FC Barcelona Baloncesto (93-76). 
+     MVP: Toni Nakic (Club Baloncesto Breogán) || PTS: 21 | AST: 9 | REB: 10
+
+Jornada 7: FC Barcelona Baloncesto - Bàsquet Manresa (88-79). 
+     MVP: Willy Hernangómez (FC Barcelona Baloncesto) || PTS: 17 | AST: 3 | REB: 11
+
+Jornada 8: Bàsquet Girona - FC Barcelona Baloncesto (91-82). 
+     MVP: Iroegbu Ike (Bàsquet Girona) || PTS: 16 | AST: 2 | REB: 5
+
+Jornada 9: FC Barcelona Baloncesto - Bilbao Basket (98-89). 
+     MVP: Willy Hernangómez (FC Barcelona Baloncesto) || PTS: 17 | AST: 5 | REB: 8
+
+Jornada 10: FC Barcelona Baloncesto - Valencia Basket (84-69). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 20 | AST: 9 | REB: 12
+
+Jornada 11: UCAM Murcia Club de Baloncesto - FC Barcelona Baloncesto (102-97). 
+     MVP: Rodions Kurucs (UCAM Murcia Club de Baloncesto) || PTS: 24 | AST: 7 | REB: 5
+
+Jornada 12: FC Barcelona Baloncesto - Basket Zaragoza (89-87). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 22 | AST: 7 | REB: 3
+
+Jornada 13: Real Madrid Baloncesto - FC Barcelona Baloncesto (79-94). 
+     MVP: Jabari Parker (FC Barcelona Baloncesto) || PTS: 23 | AST: 10 | REB: 8
+
+Jornada 14: FC Barcelona Baloncesto - Fundación Club Baloncesto Granada (101-87). 
+     MVP: Willy Hernangómez (FC Barcelona Baloncesto) || PTS: 32 | AST: 10 | REB: 9
+
+Jornada 15: Força Lleida Club Esportiu - FC Barcelona Baloncesto (84-101). 
+     MVP: Willy Hernangómez (FC Barcelona Baloncesto) || PTS: 30 | AST: 2 | REB: 5
+
+Jornada 16: FC Barcelona Baloncesto - Club Baloncesto Canarias (96-97). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 23 | AST: 11 | REB: 8
+
+Jornada 17: Club Baloncesto San Pablo Burgos - FC Barcelona Baloncesto (91-69). 
+     MVP: Miha Lapornik (Club Baloncesto San Pablo Burgos) || PTS: 25 | AST: 7 | REB: 7
+
+Jornada 18: FC Barcelona Baloncesto - Unicaja Baloncesto (90-82). 
+     MVP: Willy Hernangómez (FC Barcelona Baloncesto) || PTS: 23 | AST: 5 | REB: 11
+
+Jornada 19: FC Barcelona Baloncesto - Bàsquet Club Andorra (78-83). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 28 | AST: 9 | REB: 7
+
+Jornada 20: Saski Baskonia - FC Barcelona Baloncesto (88-71). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 32 | AST: 3 | REB: 3
+
+Jornada 21: FC Barcelona Baloncesto - Club Baloncesto Gran Canaria (95-76). 
+     MVP: Jabari Parker (FC Barcelona Baloncesto) || PTS: 26 | AST: 3 | REB: 8
+
+Jornada 22: Club Joventut Badalona - FC Barcelona Baloncesto (100-94). 
+     MVP: Artem Pustovyi (Club Joventut Badalona) || PTS: 19 | AST: 7 | REB: 8
+
+Jornada 23: FC Barcelona Baloncesto - Club Baloncesto Breogán (82-72). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 32 | AST: 10 | REB: 5
+
+Jornada 24: Bàsquet Manresa - FC Barcelona Baloncesto (87-96). 
+     MVP: Cameron Hunt (Bàsquet Manresa) || PTS: 32 | AST: 11 | REB: 4
+
+Jornada 25: FC Barcelona Baloncesto - Bàsquet Girona (82-96). 
+     MVP: Juani Marcos (Bàsquet Girona) || PTS: 23 | AST: 9 | REB: 11
+
+Jornada 26: Bilbao Basket - FC Barcelona Baloncesto (72-73). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 20 | AST: 10 | REB: 11
+
+Jornada 27: Valencia Basket - FC Barcelona Baloncesto (101-98). 
+     MVP: Jean Montero (Valencia Basket) || PTS: 18 | AST: 9 | REB: 2
+
+Jornada 28: FC Barcelona Baloncesto - UCAM Murcia Club de Baloncesto (82-96). 
+     MVP: David DeJulius (UCAM Murcia Club de Baloncesto) || PTS: 27 | AST: 11 | REB: 8
+
+Jornada 29: Basket Zaragoza - FC Barcelona Baloncesto (80-72). 
+     MVP: AJ Slaughter (Basket Zaragoza) || PTS: 30 | AST: 3 | REB: 12
+
+Jornada 30: FC Barcelona Baloncesto - Real Madrid Baloncesto (82-88). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 27 | AST: 10 | REB: 6
+
+Jornada 31: Fundación Club Baloncesto Granada - FC Barcelona Baloncesto (94-93). 
+     MVP: Sergi García (Fundación Club Baloncesto Granada) || PTS: 32 | AST: 10 | REB: 3
+
+Jornada 32: FC Barcelona Baloncesto - Força Lleida Club Esportiu (84-91). 
+     MVP: Luka Bozic (Força Lleida Club Esportiu) || PTS: 28 | AST: 10 | REB: 9
+
+Jornada 33: Club Baloncesto Canarias - FC Barcelona Baloncesto (102-78). 
+     MVP: Bruno Fitipaldo (Club Baloncesto Canarias) || PTS: 28 | AST: 4 | REB: 12
+
+Jornada 34: FC Barcelona Baloncesto - Club Baloncesto San Pablo Burgos (96-93). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 25 | AST: 2 | REB: 6
+

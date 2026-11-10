@@ -1,0 +1,102 @@
+Jornada 1: Bilbao Basket - Valencia Basket (77-95). 
+     MVP: Jean Montero (Valencia Basket) || PTS: 22 | AST: 5 | REB: 10
+
+Jornada 2: UCAM Murcia Club de Baloncesto - Bilbao Basket (97-85). 
+     MVP: Rodions Kurucs (UCAM Murcia Club de Baloncesto) || PTS: 26 | AST: 5 | REB: 12
+
+Jornada 3: Bilbao Basket - Basket Zaragoza (92-99). 
+     MVP: Bojan Dubljevic (Basket Zaragoza) || PTS: 25 | AST: 5 | REB: 2
+
+Jornada 4: Real Madrid Baloncesto - Bilbao Basket (78-71). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 19 | AST: 5 | REB: 5
+
+Jornada 5: Bilbao Basket - Fundación Club Baloncesto Granada (74-73). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 32 | AST: 7 | REB: 6
+
+Jornada 6: Força Lleida Club Esportiu - Bilbao Basket (99-68). 
+     MVP: Thomas Bropleh (Força Lleida Club Esportiu) || PTS: 20 | AST: 10 | REB: 2
+
+Jornada 7: Bilbao Basket - Club Baloncesto Canarias (99-90). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 29 | AST: 11 | REB: 10
+
+Jornada 8: Club Baloncesto San Pablo Burgos - Bilbao Basket (102-72). 
+     MVP: Dani Díez (Club Baloncesto San Pablo Burgos) || PTS: 22 | AST: 8 | REB: 9
+
+Jornada 9: FC Barcelona Baloncesto - Bilbao Basket (98-89). 
+     MVP: Willy Hernangómez (FC Barcelona Baloncesto) || PTS: 17 | AST: 5 | REB: 8
+
+Jornada 10: Bilbao Basket - Bàsquet Club Andorra (94-82). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 17 | AST: 2 | REB: 5
+
+Jornada 11: Saski Baskonia - Bilbao Basket (101-77). 
+     MVP: Chima Moneke (Saski Baskonia) || PTS: 32 | AST: 6 | REB: 11
+
+Jornada 12: Bilbao Basket - Club Baloncesto Gran Canaria (102-101). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 26 | AST: 7 | REB: 9
+
+Jornada 13: Club Joventut Badalona - Bilbao Basket (75-77). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 25 | AST: 3 | REB: 5
+
+Jornada 14: Bilbao Basket - Club Baloncesto Breogán (76-71). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 25 | AST: 9 | REB: 3
+
+Jornada 15: Bàsquet Manresa - Bilbao Basket (104-68). 
+     MVP: Cameron Hunt (Bàsquet Manresa) || PTS: 30 | AST: 8 | REB: 2
+
+Jornada 16: Bilbao Basket - Bàsquet Girona (91-99). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 31 | AST: 7 | REB: 7
+
+Jornada 17: Unicaja Baloncesto - Bilbao Basket (77-95). 
+     MVP: Tyson Carter (Unicaja Baloncesto) || PTS: 19 | AST: 9 | REB: 4
+
+Jornada 18: Valencia Basket - Bilbao Basket (88-76). 
+     MVP: Semi Ojeleye (Valencia Basket) || PTS: 17 | AST: 6 | REB: 9
+
+Jornada 19: Bilbao Basket - UCAM Murcia Club de Baloncesto (98-77). 
+     MVP: Rodions Kurucs (UCAM Murcia Club de Baloncesto) || PTS: 19 | AST: 9 | REB: 11
+
+Jornada 20: Basket Zaragoza - Bilbao Basket (102-96). 
+     MVP: AJ Slaughter (Basket Zaragoza) || PTS: 19 | AST: 9 | REB: 10
+
+Jornada 21: Bilbao Basket - Real Madrid Baloncesto (94-95). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 17 | AST: 6 | REB: 11
+
+Jornada 22: Fundación Club Baloncesto Granada - Bilbao Basket (79-86). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 31 | AST: 10 | REB: 12
+
+Jornada 23: Bilbao Basket - Força Lleida Club Esportiu (94-90). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 20 | AST: 5 | REB: 3
+
+Jornada 24: Club Baloncesto Canarias - Bilbao Basket (95-91). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 29 | AST: 7 | REB: 12
+
+Jornada 25: Bilbao Basket - Club Baloncesto San Pablo Burgos (90-96). 
+     MVP: Miha Lapornik (Club Baloncesto San Pablo Burgos) || PTS: 25 | AST: 9 | REB: 5
+
+Jornada 26: Bilbao Basket - FC Barcelona Baloncesto (72-73). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 20 | AST: 10 | REB: 11
+
+Jornada 27: Bàsquet Club Andorra - Bilbao Basket (78-89). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 26 | AST: 4 | REB: 12
+
+Jornada 28: Bilbao Basket - Saski Baskonia (77-88). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 30 | AST: 11 | REB: 8
+
+Jornada 29: Club Baloncesto Gran Canaria - Bilbao Basket (100-81). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 31 | AST: 5 | REB: 3
+
+Jornada 30: Bilbao Basket - Club Joventut Badalona (104-71). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 20 | AST: 6 | REB: 4
+
+Jornada 31: Club Baloncesto Breogán - Bilbao Basket (101-98). 
+     MVP: Darrun Hilliard (Club Baloncesto Breogán) || PTS: 20 | AST: 7 | REB: 7
+
+Jornada 32: Bilbao Basket - Bàsquet Manresa (95-93). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 17 | AST: 11 | REB: 10
+
+Jornada 33: Bàsquet Girona - Bilbao Basket (91-69). 
+     MVP: Juani Marcos (Bàsquet Girona) || PTS: 23 | AST: 2 | REB: 11
+
+Jornada 34: Bilbao Basket - Unicaja Baloncesto (92-98). 
+     MVP: Tyson Carter (Unicaja Baloncesto) || PTS: 24 | AST: 6 | REB: 3
+

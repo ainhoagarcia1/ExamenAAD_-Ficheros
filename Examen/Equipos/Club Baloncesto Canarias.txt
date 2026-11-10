@@ -1,0 +1,102 @@
+Jornada 1: Club Baloncesto Canarias - Saski Baskonia (84-81). 
+     MVP: Marcelinho Huertas (Club Baloncesto Canarias) || PTS: 19 | AST: 7 | REB: 7
+
+Jornada 2: Club Baloncesto Gran Canaria - Club Baloncesto Canarias (97-91). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 32 | AST: 9 | REB: 3
+
+Jornada 3: Club Baloncesto Canarias - Club Joventut Badalona (99-81). 
+     MVP: Artem Pustovyi (Club Joventut Badalona) || PTS: 22 | AST: 6 | REB: 8
+
+Jornada 4: Club Baloncesto Breogán - Club Baloncesto Canarias (72-73). 
+     MVP: Charlie Moore (Club Baloncesto Breogán) || PTS: 21 | AST: 8 | REB: 9
+
+Jornada 5: Club Baloncesto Canarias - Bàsquet Manresa (85-100). 
+     MVP: Retin Obasohan (Bàsquet Manresa) || PTS: 18 | AST: 5 | REB: 7
+
+Jornada 6: Club Baloncesto Canarias - Bàsquet Girona (94-81). 
+     MVP: Bruno Fitipaldo (Club Baloncesto Canarias) || PTS: 19 | AST: 7 | REB: 10
+
+Jornada 7: Bilbao Basket - Club Baloncesto Canarias (99-90). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 29 | AST: 11 | REB: 10
+
+Jornada 8: Club Baloncesto Canarias - Valencia Basket (82-73). 
+     MVP: Bruno Fitipaldo (Club Baloncesto Canarias) || PTS: 26 | AST: 3 | REB: 5
+
+Jornada 9: UCAM Murcia Club de Baloncesto - Club Baloncesto Canarias (89-101). 
+     MVP: Giorgi Shermadini (Club Baloncesto Canarias) || PTS: 24 | AST: 9 | REB: 3
+
+Jornada 10: Club Baloncesto Canarias - Basket Zaragoza (78-73). 
+     MVP: Marcelinho Huertas (Club Baloncesto Canarias) || PTS: 21 | AST: 2 | REB: 6
+
+Jornada 11: Real Madrid Baloncesto - Club Baloncesto Canarias (87-74). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 19 | AST: 11 | REB: 2
+
+Jornada 12: Club Baloncesto Canarias - Fundación Club Baloncesto Granada (105-80). 
+     MVP: Bruno Fitipaldo (Club Baloncesto Canarias) || PTS: 29 | AST: 9 | REB: 10
+
+Jornada 13: Força Lleida Club Esportiu - Club Baloncesto Canarias (90-76). 
+     MVP: Oriol Paulí (Força Lleida Club Esportiu) || PTS: 19 | AST: 2 | REB: 11
+
+Jornada 14: Club Baloncesto Canarias - Unicaja Baloncesto (98-96). 
+     MVP: Marcelinho Huertas (Club Baloncesto Canarias) || PTS: 25 | AST: 2 | REB: 5
+
+Jornada 15: Club Baloncesto Canarias - Club Baloncesto San Pablo Burgos (74-97). 
+     MVP: Gonzalo Corbalán (Club Baloncesto San Pablo Burgos) || PTS: 26 | AST: 3 | REB: 8
+
+Jornada 16: FC Barcelona Baloncesto - Club Baloncesto Canarias (96-97). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 23 | AST: 11 | REB: 8
+
+Jornada 17: Club Baloncesto Canarias - Bàsquet Club Andorra (77-92). 
+     MVP: Jerrick Harding (Bàsquet Club Andorra) || PTS: 31 | AST: 11 | REB: 4
+
+Jornada 18: Saski Baskonia - Club Baloncesto Canarias (89-78). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 25 | AST: 7 | REB: 3
+
+Jornada 19: Club Baloncesto Canarias - Club Baloncesto Gran Canaria (94-71). 
+     MVP: Giorgi Shermadini (Club Baloncesto Canarias) || PTS: 19 | AST: 9 | REB: 3
+
+Jornada 20: Club Joventut Badalona - Club Baloncesto Canarias (100-72). 
+     MVP: Marcelinho Huertas (Club Baloncesto Canarias) || PTS: 20 | AST: 3 | REB: 4
+
+Jornada 21: Club Baloncesto Canarias - Club Baloncesto Breogán (86-95). 
+     MVP: Darrun Hilliard (Club Baloncesto Breogán) || PTS: 16 | AST: 11 | REB: 12
+
+Jornada 22: Bàsquet Manresa - Club Baloncesto Canarias (72-99). 
+     MVP: Giorgi Shermadini (Club Baloncesto Canarias) || PTS: 20 | AST: 8 | REB: 10
+
+Jornada 23: Bàsquet Girona - Club Baloncesto Canarias (103-97). 
+     MVP: Aljami Durham (Bàsquet Girona) || PTS: 30 | AST: 11 | REB: 12
+
+Jornada 24: Club Baloncesto Canarias - Bilbao Basket (95-91). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 29 | AST: 7 | REB: 12
+
+Jornada 25: Valencia Basket - Club Baloncesto Canarias (93-76). 
+     MVP: Jean Montero (Valencia Basket) || PTS: 21 | AST: 4 | REB: 11
+
+Jornada 26: Club Baloncesto Canarias - UCAM Murcia Club de Baloncesto (104-91). 
+     MVP: Giorgi Shermadini (Club Baloncesto Canarias) || PTS: 27 | AST: 5 | REB: 2
+
+Jornada 27: Basket Zaragoza - Club Baloncesto Canarias (77-101). 
+     MVP: Santi Yusta (Basket Zaragoza) || PTS: 32 | AST: 10 | REB: 10
+
+Jornada 28: Club Baloncesto Canarias - Real Madrid Baloncesto (98-95). 
+     MVP: Marcelinho Huertas (Club Baloncesto Canarias) || PTS: 26 | AST: 4 | REB: 9
+
+Jornada 29: Fundación Club Baloncesto Granada - Club Baloncesto Canarias (74-77). 
+     MVP: Marcelinho Huertas (Club Baloncesto Canarias) || PTS: 27 | AST: 9 | REB: 3
+
+Jornada 30: Club Baloncesto Canarias - Força Lleida Club Esportiu (80-73). 
+     MVP: Marcelinho Huertas (Club Baloncesto Canarias) || PTS: 31 | AST: 10 | REB: 8
+
+Jornada 31: Unicaja Baloncesto - Club Baloncesto Canarias (75-73). 
+     MVP: Bruno Fitipaldo (Club Baloncesto Canarias) || PTS: 24 | AST: 5 | REB: 11
+
+Jornada 32: Club Baloncesto San Pablo Burgos - Club Baloncesto Canarias (102-86). 
+     MVP: Miha Lapornik (Club Baloncesto San Pablo Burgos) || PTS: 29 | AST: 4 | REB: 6
+
+Jornada 33: Club Baloncesto Canarias - FC Barcelona Baloncesto (102-78). 
+     MVP: Bruno Fitipaldo (Club Baloncesto Canarias) || PTS: 28 | AST: 4 | REB: 12
+
+Jornada 34: Bàsquet Club Andorra - Club Baloncesto Canarias (84-102). 
+     MVP: Bruno Fitipaldo (Club Baloncesto Canarias) || PTS: 24 | AST: 4 | REB: 3
+

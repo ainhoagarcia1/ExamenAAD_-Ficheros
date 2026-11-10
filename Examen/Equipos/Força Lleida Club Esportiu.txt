@@ -1,0 +1,102 @@
+Jornada 1: Força Lleida Club Esportiu - Club Baloncesto Gran Canaria (90-91). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 18 | AST: 2 | REB: 12
+
+Jornada 2: Club Joventut Badalona - Força Lleida Club Esportiu (96-92). 
+     MVP: Ante Tomic (Club Joventut Badalona) || PTS: 32 | AST: 6 | REB: 10
+
+Jornada 3: Força Lleida Club Esportiu - Club Baloncesto Breogán (76-89). 
+     MVP: Darrun Hilliard (Club Baloncesto Breogán) || PTS: 23 | AST: 11 | REB: 5
+
+Jornada 4: Força Lleida Club Esportiu - Bàsquet Manresa (102-81). 
+     MVP: Derrick Alston Jr (Bàsquet Manresa) || PTS: 21 | AST: 8 | REB: 2
+
+Jornada 5: Bàsquet Girona - Força Lleida Club Esportiu (92-72). 
+     MVP: Aljami Durham (Bàsquet Girona) || PTS: 19 | AST: 3 | REB: 10
+
+Jornada 6: Força Lleida Club Esportiu - Bilbao Basket (99-68). 
+     MVP: Thomas Bropleh (Força Lleida Club Esportiu) || PTS: 20 | AST: 10 | REB: 2
+
+Jornada 7: Valencia Basket - Força Lleida Club Esportiu (104-93). 
+     MVP: Semi Ojeleye (Valencia Basket) || PTS: 26 | AST: 2 | REB: 3
+
+Jornada 8: Força Lleida Club Esportiu - UCAM Murcia Club de Baloncesto (91-93). 
+     MVP: David DeJulius (UCAM Murcia Club de Baloncesto) || PTS: 25 | AST: 6 | REB: 5
+
+Jornada 9: Basket Zaragoza - Força Lleida Club Esportiu (92-96). 
+     MVP: Thomas Bropleh (Força Lleida Club Esportiu) || PTS: 32 | AST: 8 | REB: 10
+
+Jornada 10: Força Lleida Club Esportiu - Real Madrid Baloncesto (89-95). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 26 | AST: 8 | REB: 4
+
+Jornada 11: Fundación Club Baloncesto Granada - Força Lleida Club Esportiu (79-78). 
+     MVP: Luka Bozic (Força Lleida Club Esportiu) || PTS: 16 | AST: 6 | REB: 11
+
+Jornada 12: Força Lleida Club Esportiu - Unicaja Baloncesto (96-89). 
+     MVP: Oriol Paulí (Força Lleida Club Esportiu) || PTS: 21 | AST: 9 | REB: 5
+
+Jornada 13: Força Lleida Club Esportiu - Club Baloncesto Canarias (90-76). 
+     MVP: Oriol Paulí (Força Lleida Club Esportiu) || PTS: 19 | AST: 2 | REB: 11
+
+Jornada 14: Club Baloncesto San Pablo Burgos - Força Lleida Club Esportiu (84-95). 
+     MVP: Luka Bozic (Força Lleida Club Esportiu) || PTS: 20 | AST: 6 | REB: 4
+
+Jornada 15: Força Lleida Club Esportiu - FC Barcelona Baloncesto (84-101). 
+     MVP: Willy Hernangómez (FC Barcelona Baloncesto) || PTS: 30 | AST: 2 | REB: 5
+
+Jornada 16: Bàsquet Club Andorra - Força Lleida Club Esportiu (81-99). 
+     MVP: Jerrick Harding (Bàsquet Club Andorra) || PTS: 32 | AST: 11 | REB: 7
+
+Jornada 17: Força Lleida Club Esportiu - Saski Baskonia (90-102). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 27 | AST: 11 | REB: 6
+
+Jornada 18: Club Baloncesto Gran Canaria - Força Lleida Club Esportiu (77-93). 
+     MVP: Thomas Bropleh (Força Lleida Club Esportiu) || PTS: 19 | AST: 9 | REB: 7
+
+Jornada 19: Força Lleida Club Esportiu - Club Joventut Badalona (85-72). 
+     MVP: Thomas Bropleh (Força Lleida Club Esportiu) || PTS: 22 | AST: 11 | REB: 5
+
+Jornada 20: Club Baloncesto Breogán - Força Lleida Club Esportiu (104-95). 
+     MVP: Darrun Hilliard (Club Baloncesto Breogán) || PTS: 19 | AST: 10 | REB: 5
+
+Jornada 21: Bàsquet Manresa - Força Lleida Club Esportiu (89-69). 
+     MVP: Cameron Hunt (Bàsquet Manresa) || PTS: 25 | AST: 7 | REB: 7
+
+Jornada 22: Força Lleida Club Esportiu - Bàsquet Girona (91-81). 
+     MVP: Oriol Paulí (Força Lleida Club Esportiu) || PTS: 25 | AST: 7 | REB: 3
+
+Jornada 23: Bilbao Basket - Força Lleida Club Esportiu (94-90). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 20 | AST: 5 | REB: 3
+
+Jornada 24: Força Lleida Club Esportiu - Valencia Basket (78-89). 
+     MVP: Luka Bozic (Força Lleida Club Esportiu) || PTS: 32 | AST: 4 | REB: 2
+
+Jornada 25: UCAM Murcia Club de Baloncesto - Força Lleida Club Esportiu (93-99). 
+     MVP: Luka Bozic (Força Lleida Club Esportiu) || PTS: 20 | AST: 3 | REB: 6
+
+Jornada 26: Força Lleida Club Esportiu - Basket Zaragoza (77-78). 
+     MVP: AJ Slaughter (Basket Zaragoza) || PTS: 20 | AST: 8 | REB: 3
+
+Jornada 27: Real Madrid Baloncesto - Força Lleida Club Esportiu (103-102). 
+     MVP: Walter Tavares (Real Madrid Baloncesto) || PTS: 23 | AST: 4 | REB: 6
+
+Jornada 28: Força Lleida Club Esportiu - Fundación Club Baloncesto Granada (104-93). 
+     MVP: Jacob Wiley (Fundación Club Baloncesto Granada) || PTS: 31 | AST: 6 | REB: 2
+
+Jornada 29: Unicaja Baloncesto - Força Lleida Club Esportiu (82-69). 
+     MVP: Tyson Carter (Unicaja Baloncesto) || PTS: 30 | AST: 2 | REB: 4
+
+Jornada 30: Club Baloncesto Canarias - Força Lleida Club Esportiu (80-73). 
+     MVP: Marcelinho Huertas (Club Baloncesto Canarias) || PTS: 31 | AST: 10 | REB: 8
+
+Jornada 31: Força Lleida Club Esportiu - Club Baloncesto San Pablo Burgos (87-93). 
+     MVP: Miha Lapornik (Club Baloncesto San Pablo Burgos) || PTS: 17 | AST: 4 | REB: 9
+
+Jornada 32: FC Barcelona Baloncesto - Força Lleida Club Esportiu (84-91). 
+     MVP: Luka Bozic (Força Lleida Club Esportiu) || PTS: 28 | AST: 10 | REB: 9
+
+Jornada 33: Força Lleida Club Esportiu - Bàsquet Club Andorra (100-88). 
+     MVP: Oriol Paulí (Força Lleida Club Esportiu) || PTS: 22 | AST: 8 | REB: 10
+
+Jornada 34: Saski Baskonia - Força Lleida Club Esportiu (78-94). 
+     MVP: Oriol Paulí (Força Lleida Club Esportiu) || PTS: 19 | AST: 4 | REB: 2
+

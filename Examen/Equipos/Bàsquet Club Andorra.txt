@@ -1,0 +1,102 @@
+Jornada 1: Club Baloncesto San Pablo Burgos - Bàsquet Club Andorra (73-80). 
+     MVP: Nikos Chougkaz (Bàsquet Club Andorra) || PTS: 29 | AST: 5 | REB: 9
+
+Jornada 2: Bàsquet Club Andorra - FC Barcelona Baloncesto (86-88). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 23 | AST: 2 | REB: 7
+
+Jornada 3: Unicaja Baloncesto - Bàsquet Club Andorra (90-95). 
+     MVP: Jerrick Harding (Bàsquet Club Andorra) || PTS: 24 | AST: 10 | REB: 4
+
+Jornada 4: Saski Baskonia - Bàsquet Club Andorra (76-100). 
+     MVP: Nikos Chougkaz (Bàsquet Club Andorra) || PTS: 31 | AST: 5 | REB: 10
+
+Jornada 5: Bàsquet Club Andorra - Club Baloncesto Gran Canaria (75-88). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 31 | AST: 10 | REB: 10
+
+Jornada 6: Club Joventut Badalona - Bàsquet Club Andorra (85-89). 
+     MVP: Nikos Chougkaz (Bàsquet Club Andorra) || PTS: 24 | AST: 10 | REB: 9
+
+Jornada 7: Bàsquet Club Andorra - Club Baloncesto Breogán (84-93). 
+     MVP: Charlie Moore (Club Baloncesto Breogán) || PTS: 24 | AST: 7 | REB: 12
+
+Jornada 8: Bàsquet Manresa - Bàsquet Club Andorra (99-88). 
+     MVP: Retin Obasohan (Bàsquet Manresa) || PTS: 22 | AST: 10 | REB: 9
+
+Jornada 9: Bàsquet Club Andorra - Bàsquet Girona (90-83). 
+     MVP: Shannon Evans (Bàsquet Club Andorra) || PTS: 18 | AST: 4 | REB: 4
+
+Jornada 10: Bilbao Basket - Bàsquet Club Andorra (94-82). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 17 | AST: 2 | REB: 5
+
+Jornada 11: Bàsquet Club Andorra - Valencia Basket (77-85). 
+     MVP: Jerrick Harding (Bàsquet Club Andorra) || PTS: 30 | AST: 11 | REB: 11
+
+Jornada 12: Bàsquet Club Andorra - UCAM Murcia Club de Baloncesto (90-74). 
+     MVP: Shannon Evans (Bàsquet Club Andorra) || PTS: 23 | AST: 7 | REB: 4
+
+Jornada 13: Basket Zaragoza - Bàsquet Club Andorra (75-74). 
+     MVP: Jerrick Harding (Bàsquet Club Andorra) || PTS: 22 | AST: 6 | REB: 12
+
+Jornada 14: Bàsquet Club Andorra - Real Madrid Baloncesto (75-73). 
+     MVP: Walter Tavares (Real Madrid Baloncesto) || PTS: 16 | AST: 6 | REB: 11
+
+Jornada 15: Fundación Club Baloncesto Granada - Bàsquet Club Andorra (87-78). 
+     MVP: Amine Noua (Fundación Club Baloncesto Granada) || PTS: 29 | AST: 3 | REB: 5
+
+Jornada 16: Bàsquet Club Andorra - Força Lleida Club Esportiu (81-99). 
+     MVP: Jerrick Harding (Bàsquet Club Andorra) || PTS: 32 | AST: 11 | REB: 7
+
+Jornada 17: Club Baloncesto Canarias - Bàsquet Club Andorra (77-92). 
+     MVP: Jerrick Harding (Bàsquet Club Andorra) || PTS: 31 | AST: 11 | REB: 4
+
+Jornada 18: Bàsquet Club Andorra - Club Baloncesto San Pablo Burgos (74-91). 
+     MVP: Miha Lapornik (Club Baloncesto San Pablo Burgos) || PTS: 25 | AST: 7 | REB: 8
+
+Jornada 19: FC Barcelona Baloncesto - Bàsquet Club Andorra (78-83). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 28 | AST: 9 | REB: 7
+
+Jornada 20: Bàsquet Club Andorra - Unicaja Baloncesto (80-102). 
+     MVP: Kendrick Perry (Unicaja Baloncesto) || PTS: 19 | AST: 2 | REB: 4
+
+Jornada 21: Bàsquet Club Andorra - Saski Baskonia (98-74). 
+     MVP: Shannon Evans (Bàsquet Club Andorra) || PTS: 24 | AST: 7 | REB: 4
+
+Jornada 22: Club Baloncesto Gran Canaria - Bàsquet Club Andorra (82-91). 
+     MVP: Shannon Evans (Bàsquet Club Andorra) || PTS: 18 | AST: 2 | REB: 4
+
+Jornada 23: Bàsquet Club Andorra - Club Joventut Badalona (101-91). 
+     MVP: Jerrick Harding (Bàsquet Club Andorra) || PTS: 23 | AST: 8 | REB: 11
+
+Jornada 24: Club Baloncesto Breogán - Bàsquet Club Andorra (84-88). 
+     MVP: Nikos Chougkaz (Bàsquet Club Andorra) || PTS: 20 | AST: 2 | REB: 9
+
+Jornada 25: Bàsquet Club Andorra - Bàsquet Manresa (78-100). 
+     MVP: Cameron Hunt (Bàsquet Manresa) || PTS: 32 | AST: 2 | REB: 12
+
+Jornada 26: Bàsquet Girona - Bàsquet Club Andorra (92-74). 
+     MVP: Aljami Durham (Bàsquet Girona) || PTS: 26 | AST: 4 | REB: 4
+
+Jornada 27: Bàsquet Club Andorra - Bilbao Basket (78-89). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 26 | AST: 4 | REB: 12
+
+Jornada 28: Valencia Basket - Bàsquet Club Andorra (89-71). 
+     MVP: Semi Ojeleye (Valencia Basket) || PTS: 28 | AST: 7 | REB: 10
+
+Jornada 29: UCAM Murcia Club de Baloncesto - Bàsquet Club Andorra (83-91). 
+     MVP: Jerrick Harding (Bàsquet Club Andorra) || PTS: 22 | AST: 4 | REB: 5
+
+Jornada 30: Bàsquet Club Andorra - Basket Zaragoza (91-102). 
+     MVP: AJ Slaughter (Basket Zaragoza) || PTS: 21 | AST: 11 | REB: 11
+
+Jornada 31: Real Madrid Baloncesto - Bàsquet Club Andorra (78-71). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 29 | AST: 5 | REB: 4
+
+Jornada 32: Bàsquet Club Andorra - Fundación Club Baloncesto Granada (95-77). 
+     MVP: Nikos Chougkaz (Bàsquet Club Andorra) || PTS: 28 | AST: 10 | REB: 2
+
+Jornada 33: Força Lleida Club Esportiu - Bàsquet Club Andorra (100-88). 
+     MVP: Oriol Paulí (Força Lleida Club Esportiu) || PTS: 22 | AST: 8 | REB: 10
+
+Jornada 34: Bàsquet Club Andorra - Club Baloncesto Canarias (84-102). 
+     MVP: Bruno Fitipaldo (Club Baloncesto Canarias) || PTS: 24 | AST: 4 | REB: 3
+

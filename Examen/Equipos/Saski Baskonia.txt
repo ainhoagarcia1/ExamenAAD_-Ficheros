@@ -1,0 +1,102 @@
+Jornada 1: Club Baloncesto Canarias - Saski Baskonia (84-81). 
+     MVP: Marcelinho Huertas (Club Baloncesto Canarias) || PTS: 19 | AST: 7 | REB: 7
+
+Jornada 2: Saski Baskonia - Club Baloncesto San Pablo Burgos (103-93). 
+     MVP: Dani Díez (Club Baloncesto San Pablo Burgos) || PTS: 30 | AST: 4 | REB: 6
+
+Jornada 3: FC Barcelona Baloncesto - Saski Baskonia (81-91). 
+     MVP: Chima Moneke (Saski Baskonia) || PTS: 32 | AST: 2 | REB: 11
+
+Jornada 4: Saski Baskonia - Bàsquet Club Andorra (76-100). 
+     MVP: Nikos Chougkaz (Bàsquet Club Andorra) || PTS: 31 | AST: 5 | REB: 10
+
+Jornada 5: Unicaja Baloncesto - Saski Baskonia (96-84). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 25 | AST: 8 | REB: 10
+
+Jornada 6: Club Baloncesto Gran Canaria - Saski Baskonia (105-68). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 25 | AST: 3 | REB: 4
+
+Jornada 7: Saski Baskonia - Club Joventut Badalona (82-74). 
+     MVP: Timothé Luwawu-Cabarrot (Saski Baskonia) || PTS: 31 | AST: 5 | REB: 5
+
+Jornada 8: Club Baloncesto Breogán - Saski Baskonia (84-94). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 21 | AST: 11 | REB: 11
+
+Jornada 9: Saski Baskonia - Bàsquet Manresa (100-78). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 30 | AST: 6 | REB: 5
+
+Jornada 10: Bàsquet Girona - Saski Baskonia (96-88). 
+     MVP: Juani Marcos (Bàsquet Girona) || PTS: 26 | AST: 8 | REB: 6
+
+Jornada 11: Saski Baskonia - Bilbao Basket (101-77). 
+     MVP: Chima Moneke (Saski Baskonia) || PTS: 32 | AST: 6 | REB: 11
+
+Jornada 12: Valencia Basket - Saski Baskonia (83-80). 
+     MVP: Chris Jones (Valencia Basket) || PTS: 24 | AST: 11 | REB: 10
+
+Jornada 13: Saski Baskonia - UCAM Murcia Club de Baloncesto (77-78). 
+     MVP: Rodions Kurucs (UCAM Murcia Club de Baloncesto) || PTS: 18 | AST: 4 | REB: 2
+
+Jornada 14: Saski Baskonia - Basket Zaragoza (101-99). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 26 | AST: 7 | REB: 12
+
+Jornada 15: Real Madrid Baloncesto - Saski Baskonia (104-85). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 31 | AST: 5 | REB: 9
+
+Jornada 16: Saski Baskonia - Fundación Club Baloncesto Granada (81-72). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 26 | AST: 11 | REB: 8
+
+Jornada 17: Força Lleida Club Esportiu - Saski Baskonia (90-102). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 27 | AST: 11 | REB: 6
+
+Jornada 18: Saski Baskonia - Club Baloncesto Canarias (89-78). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 25 | AST: 7 | REB: 3
+
+Jornada 19: Club Baloncesto San Pablo Burgos - Saski Baskonia (98-85). 
+     MVP: Gonzalo Corbalán (Club Baloncesto San Pablo Burgos) || PTS: 22 | AST: 9 | REB: 9
+
+Jornada 20: Saski Baskonia - FC Barcelona Baloncesto (88-71). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 32 | AST: 3 | REB: 3
+
+Jornada 21: Bàsquet Club Andorra - Saski Baskonia (98-74). 
+     MVP: Shannon Evans (Bàsquet Club Andorra) || PTS: 24 | AST: 7 | REB: 4
+
+Jornada 22: Saski Baskonia - Unicaja Baloncesto (72-79). 
+     MVP: Chima Moneke (Saski Baskonia) || PTS: 28 | AST: 3 | REB: 4
+
+Jornada 23: Saski Baskonia - Club Baloncesto Gran Canaria (74-95). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 26 | AST: 11 | REB: 8
+
+Jornada 24: Club Joventut Badalona - Saski Baskonia (101-96). 
+     MVP: Ante Tomic (Club Joventut Badalona) || PTS: 25 | AST: 3 | REB: 12
+
+Jornada 25: Saski Baskonia - Club Baloncesto Breogán (99-100). 
+     MVP: Toni Nakic (Club Baloncesto Breogán) || PTS: 25 | AST: 4 | REB: 5
+
+Jornada 26: Bàsquet Manresa - Saski Baskonia (86-96). 
+     MVP: Derrick Alston Jr (Bàsquet Manresa) || PTS: 29 | AST: 2 | REB: 8
+
+Jornada 27: Saski Baskonia - Bàsquet Girona (104-69). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 17 | AST: 8 | REB: 7
+
+Jornada 28: Bilbao Basket - Saski Baskonia (77-88). 
+     MVP: Markus Howard (Saski Baskonia) || PTS: 30 | AST: 11 | REB: 8
+
+Jornada 29: Saski Baskonia - Valencia Basket (92-90). 
+     MVP: Chima Moneke (Saski Baskonia) || PTS: 25 | AST: 6 | REB: 4
+
+Jornada 30: UCAM Murcia Club de Baloncesto - Saski Baskonia (81-78). 
+     MVP: Rodions Kurucs (UCAM Murcia Club de Baloncesto) || PTS: 26 | AST: 11 | REB: 2
+
+Jornada 31: Basket Zaragoza - Saski Baskonia (103-87). 
+     MVP: Santi Yusta (Basket Zaragoza) || PTS: 28 | AST: 10 | REB: 9
+
+Jornada 32: Saski Baskonia - Real Madrid Baloncesto (81-100). 
+     MVP: Walter Tavares (Real Madrid Baloncesto) || PTS: 26 | AST: 4 | REB: 8
+
+Jornada 33: Fundación Club Baloncesto Granada - Saski Baskonia (102-101). 
+     MVP: Amine Noua (Fundación Club Baloncesto Granada) || PTS: 30 | AST: 10 | REB: 7
+
+Jornada 34: Saski Baskonia - Força Lleida Club Esportiu (78-94). 
+     MVP: Oriol Paulí (Força Lleida Club Esportiu) || PTS: 19 | AST: 4 | REB: 2
+

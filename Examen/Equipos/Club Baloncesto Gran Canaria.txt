@@ -1,0 +1,102 @@
+Jornada 1: Força Lleida Club Esportiu - Club Baloncesto Gran Canaria (90-91). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 18 | AST: 2 | REB: 12
+
+Jornada 2: Club Baloncesto Gran Canaria - Club Baloncesto Canarias (97-91). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 32 | AST: 9 | REB: 3
+
+Jornada 3: Club Baloncesto San Pablo Burgos - Club Baloncesto Gran Canaria (87-73). 
+     MVP: Gonzalo Corbalán (Club Baloncesto San Pablo Burgos) || PTS: 18 | AST: 10 | REB: 4
+
+Jornada 4: Club Baloncesto Gran Canaria - FC Barcelona Baloncesto (78-95). 
+     MVP: Willy Hernangómez (FC Barcelona Baloncesto) || PTS: 30 | AST: 2 | REB: 12
+
+Jornada 5: Bàsquet Club Andorra - Club Baloncesto Gran Canaria (75-88). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 31 | AST: 10 | REB: 10
+
+Jornada 6: Club Baloncesto Gran Canaria - Saski Baskonia (105-68). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 25 | AST: 3 | REB: 4
+
+Jornada 7: Unicaja Baloncesto - Club Baloncesto Gran Canaria (98-77). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 21 | AST: 4 | REB: 8
+
+Jornada 8: Club Joventut Badalona - Club Baloncesto Gran Canaria (76-89). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 19 | AST: 6 | REB: 10
+
+Jornada 9: Club Baloncesto Gran Canaria - Club Baloncesto Breogán (87-75). 
+     MVP: Andrew Albicy (Club Baloncesto Gran Canaria) || PTS: 32 | AST: 10 | REB: 11
+
+Jornada 10: Bàsquet Manresa - Club Baloncesto Gran Canaria (101-76). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 16 | AST: 8 | REB: 11
+
+Jornada 11: Club Baloncesto Gran Canaria - Bàsquet Girona (94-102). 
+     MVP: Juani Marcos (Bàsquet Girona) || PTS: 18 | AST: 10 | REB: 12
+
+Jornada 12: Bilbao Basket - Club Baloncesto Gran Canaria (102-101). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 26 | AST: 7 | REB: 9
+
+Jornada 13: Club Baloncesto Gran Canaria - Valencia Basket (100-96). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 29 | AST: 6 | REB: 11
+
+Jornada 14: UCAM Murcia Club de Baloncesto - Club Baloncesto Gran Canaria (74-79). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 30 | AST: 6 | REB: 4
+
+Jornada 15: Club Baloncesto Gran Canaria - Basket Zaragoza (81-92). 
+     MVP: AJ Slaughter (Basket Zaragoza) || PTS: 32 | AST: 4 | REB: 3
+
+Jornada 16: Club Baloncesto Gran Canaria - Real Madrid Baloncesto (103-102). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 23 | AST: 6 | REB: 5
+
+Jornada 17: Fundación Club Baloncesto Granada - Club Baloncesto Gran Canaria (78-83). 
+     MVP: Andrew Albicy (Club Baloncesto Gran Canaria) || PTS: 25 | AST: 6 | REB: 2
+
+Jornada 18: Club Baloncesto Gran Canaria - Força Lleida Club Esportiu (77-93). 
+     MVP: Thomas Bropleh (Força Lleida Club Esportiu) || PTS: 19 | AST: 9 | REB: 7
+
+Jornada 19: Club Baloncesto Canarias - Club Baloncesto Gran Canaria (94-71). 
+     MVP: Giorgi Shermadini (Club Baloncesto Canarias) || PTS: 19 | AST: 9 | REB: 3
+
+Jornada 20: Club Baloncesto Gran Canaria - Club Baloncesto San Pablo Burgos (86-70). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 32 | AST: 6 | REB: 9
+
+Jornada 21: FC Barcelona Baloncesto - Club Baloncesto Gran Canaria (95-76). 
+     MVP: Jabari Parker (FC Barcelona Baloncesto) || PTS: 26 | AST: 3 | REB: 8
+
+Jornada 22: Club Baloncesto Gran Canaria - Bàsquet Club Andorra (82-91). 
+     MVP: Shannon Evans (Bàsquet Club Andorra) || PTS: 18 | AST: 2 | REB: 4
+
+Jornada 23: Saski Baskonia - Club Baloncesto Gran Canaria (74-95). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 26 | AST: 11 | REB: 8
+
+Jornada 24: Club Baloncesto Gran Canaria - Unicaja Baloncesto (92-88). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 31 | AST: 9 | REB: 12
+
+Jornada 25: Club Baloncesto Gran Canaria - Club Joventut Badalona (97-76). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 25 | AST: 10 | REB: 8
+
+Jornada 26: Club Baloncesto Breogán - Club Baloncesto Gran Canaria (102-91). 
+     MVP: Charlie Moore (Club Baloncesto Breogán) || PTS: 32 | AST: 3 | REB: 6
+
+Jornada 27: Club Baloncesto Gran Canaria - Bàsquet Manresa (99-68). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 29 | AST: 4 | REB: 12
+
+Jornada 28: Bàsquet Girona - Club Baloncesto Gran Canaria (103-91). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 24 | AST: 3 | REB: 8
+
+Jornada 29: Club Baloncesto Gran Canaria - Bilbao Basket (100-81). 
+     MVP: Melwin Pantzar (Bilbao Basket) || PTS: 31 | AST: 5 | REB: 3
+
+Jornada 30: Valencia Basket - Club Baloncesto Gran Canaria (77-84). 
+     MVP: Mike Tobey (Club Baloncesto Gran Canaria) || PTS: 24 | AST: 4 | REB: 12
+
+Jornada 31: Club Baloncesto Gran Canaria - UCAM Murcia Club de Baloncesto (92-88). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 31 | AST: 10 | REB: 9
+
+Jornada 32: Basket Zaragoza - Club Baloncesto Gran Canaria (91-89). 
+     MVP: AJ Slaughter (Basket Zaragoza) || PTS: 31 | AST: 11 | REB: 6
+
+Jornada 33: Real Madrid Baloncesto - Club Baloncesto Gran Canaria (91-82). 
+     MVP: Andrew Albicy (Club Baloncesto Gran Canaria) || PTS: 25 | AST: 5 | REB: 9
+
+Jornada 34: Club Baloncesto Gran Canaria - Fundación Club Baloncesto Granada (92-86). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 23 | AST: 10 | REB: 2
+

@@ -1,0 +1,102 @@
+Jornada 1: Club Baloncesto Breogán - Real Madrid Baloncesto (88-86). 
+     MVP: Mario Hezonja (Real Madrid Baloncesto) || PTS: 28 | AST: 6 | REB: 9
+
+Jornada 2: Real Madrid Baloncesto - Bàsquet Manresa (77-75). 
+     MVP: Walter Tavares (Real Madrid Baloncesto) || PTS: 29 | AST: 11 | REB: 3
+
+Jornada 3: Bàsquet Girona - Real Madrid Baloncesto (80-98). 
+     MVP: Iroegbu Ike (Bàsquet Girona) || PTS: 24 | AST: 10 | REB: 11
+
+Jornada 4: Real Madrid Baloncesto - Bilbao Basket (78-71). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 19 | AST: 5 | REB: 5
+
+Jornada 5: Valencia Basket - Real Madrid Baloncesto (82-71). 
+     MVP: Mario Hezonja (Real Madrid Baloncesto) || PTS: 21 | AST: 3 | REB: 11
+
+Jornada 6: Real Madrid Baloncesto - UCAM Murcia Club de Baloncesto (88-75). 
+     MVP: Rodions Kurucs (UCAM Murcia Club de Baloncesto) || PTS: 20 | AST: 6 | REB: 6
+
+Jornada 7: Basket Zaragoza - Real Madrid Baloncesto (73-79). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 29 | AST: 5 | REB: 6
+
+Jornada 8: Real Madrid Baloncesto - Unicaja Baloncesto (72-101). 
+     MVP: Walter Tavares (Real Madrid Baloncesto) || PTS: 22 | AST: 7 | REB: 8
+
+Jornada 9: Real Madrid Baloncesto - Fundación Club Baloncesto Granada (86-79). 
+     MVP: Walter Tavares (Real Madrid Baloncesto) || PTS: 32 | AST: 9 | REB: 2
+
+Jornada 10: Força Lleida Club Esportiu - Real Madrid Baloncesto (89-95). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 26 | AST: 8 | REB: 4
+
+Jornada 11: Real Madrid Baloncesto - Club Baloncesto Canarias (87-74). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 19 | AST: 11 | REB: 2
+
+Jornada 12: Club Baloncesto San Pablo Burgos - Real Madrid Baloncesto (90-82). 
+     MVP: Miha Lapornik (Club Baloncesto San Pablo Burgos) || PTS: 25 | AST: 11 | REB: 7
+
+Jornada 13: Real Madrid Baloncesto - FC Barcelona Baloncesto (79-94). 
+     MVP: Jabari Parker (FC Barcelona Baloncesto) || PTS: 23 | AST: 10 | REB: 8
+
+Jornada 14: Bàsquet Club Andorra - Real Madrid Baloncesto (75-73). 
+     MVP: Walter Tavares (Real Madrid Baloncesto) || PTS: 16 | AST: 6 | REB: 11
+
+Jornada 15: Real Madrid Baloncesto - Saski Baskonia (104-85). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 31 | AST: 5 | REB: 9
+
+Jornada 16: Club Baloncesto Gran Canaria - Real Madrid Baloncesto (103-102). 
+     MVP: Nicolas Brussino (Club Baloncesto Gran Canaria) || PTS: 23 | AST: 6 | REB: 5
+
+Jornada 17: Club Joventut Badalona - Real Madrid Baloncesto (97-85). 
+     MVP: Artem Pustovyi (Club Joventut Badalona) || PTS: 17 | AST: 11 | REB: 9
+
+Jornada 18: Real Madrid Baloncesto - Club Baloncesto Breogán (88-92). 
+     MVP: Toni Nakic (Club Baloncesto Breogán) || PTS: 19 | AST: 5 | REB: 9
+
+Jornada 19: Bàsquet Manresa - Real Madrid Baloncesto (85-69). 
+     MVP: Retin Obasohan (Bàsquet Manresa) || PTS: 23 | AST: 4 | REB: 11
+
+Jornada 20: Real Madrid Baloncesto - Bàsquet Girona (73-71). 
+     MVP: Juani Marcos (Bàsquet Girona) || PTS: 29 | AST: 3 | REB: 9
+
+Jornada 21: Bilbao Basket - Real Madrid Baloncesto (94-95). 
+     MVP: Kristian Kullamae (Bilbao Basket) || PTS: 17 | AST: 6 | REB: 11
+
+Jornada 22: Real Madrid Baloncesto - Valencia Basket (82-71). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 30 | AST: 8 | REB: 9
+
+Jornada 23: UCAM Murcia Club de Baloncesto - Real Madrid Baloncesto (97-94). 
+     MVP: Dylan Ennis (UCAM Murcia Club de Baloncesto) || PTS: 16 | AST: 7 | REB: 4
+
+Jornada 24: Real Madrid Baloncesto - Basket Zaragoza (91-85). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 32 | AST: 3 | REB: 6
+
+Jornada 25: Unicaja Baloncesto - Real Madrid Baloncesto (81-89). 
+     MVP: Walter Tavares (Real Madrid Baloncesto) || PTS: 20 | AST: 7 | REB: 6
+
+Jornada 26: Fundación Club Baloncesto Granada - Real Madrid Baloncesto (98-78). 
+     MVP: Jacob Wiley (Fundación Club Baloncesto Granada) || PTS: 20 | AST: 6 | REB: 2
+
+Jornada 27: Real Madrid Baloncesto - Força Lleida Club Esportiu (103-102). 
+     MVP: Walter Tavares (Real Madrid Baloncesto) || PTS: 23 | AST: 4 | REB: 6
+
+Jornada 28: Club Baloncesto Canarias - Real Madrid Baloncesto (98-95). 
+     MVP: Marcelinho Huertas (Club Baloncesto Canarias) || PTS: 26 | AST: 4 | REB: 9
+
+Jornada 29: Real Madrid Baloncesto - Club Baloncesto San Pablo Burgos (73-79). 
+     MVP: Gonzalo Corbalán (Club Baloncesto San Pablo Burgos) || PTS: 19 | AST: 6 | REB: 6
+
+Jornada 30: FC Barcelona Baloncesto - Real Madrid Baloncesto (82-88). 
+     MVP: Kevin Punter (FC Barcelona Baloncesto) || PTS: 27 | AST: 10 | REB: 6
+
+Jornada 31: Real Madrid Baloncesto - Bàsquet Club Andorra (78-71). 
+     MVP: Facundo Campazzo (Real Madrid Baloncesto) || PTS: 29 | AST: 5 | REB: 4
+
+Jornada 32: Saski Baskonia - Real Madrid Baloncesto (81-100). 
+     MVP: Walter Tavares (Real Madrid Baloncesto) || PTS: 26 | AST: 4 | REB: 8
+
+Jornada 33: Real Madrid Baloncesto - Club Baloncesto Gran Canaria (91-82). 
+     MVP: Andrew Albicy (Club Baloncesto Gran Canaria) || PTS: 25 | AST: 5 | REB: 9
+
+Jornada 34: Real Madrid Baloncesto - Club Joventut Badalona (83-94). 
+     MVP: Mario Hezonja (Real Madrid Baloncesto) || PTS: 17 | AST: 8 | REB: 9
+

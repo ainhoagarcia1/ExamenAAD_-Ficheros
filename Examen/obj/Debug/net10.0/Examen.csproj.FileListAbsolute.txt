@@ -1,0 +1,14 @@
+C:\Users\Ainhoa\DAM\vsc\aad\examen\obj\Debug\net10.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainhoa\DAM\vsc\aad\examen\obj\Debug\net10.0\Examen.AssemblyInfoInputs.cache
+C:\Users\Ainhoa\DAM\vsc\aad\examen\obj\Debug\net10.0\Examen.AssemblyInfo.cs
+C:\Users\Ainhoa\DAM\vsc\aad\examen\obj\Debug\net10.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Ainhoa\DAM\vsc\aad\examen\bin\Debug\net10.0\Examen.exe
+C:\Users\Ainhoa\DAM\vsc\aad\examen\bin\Debug\net10.0\Examen.deps.json
+C:\Users\Ainhoa\DAM\vsc\aad\examen\bin\Debug\net10.0\Examen.runtimeconfig.json
+C:\Users\Ainhoa\DAM\vsc\aad\examen\bin\Debug\net10.0\Examen.dll
+C:\Users\Ainhoa\DAM\vsc\aad\examen\bin\Debug\net10.0\Examen.pdb
+C:\Users\Ainhoa\DAM\vsc\aad\examen\obj\Debug\net10.0\Examen.dll
+C:\Users\Ainhoa\DAM\vsc\aad\examen\obj\Debug\net10.0\refint\Examen.dll
+C:\Users\Ainhoa\DAM\vsc\aad\examen\obj\Debug\net10.0\Examen.pdb
+C:\Users\Ainhoa\DAM\vsc\aad\examen\obj\Debug\net10.0\Examen.genruntimeconfig.cache
+C:\Users\Ainhoa\DAM\vsc\aad\examen\obj\Debug\net10.0\ref\Examen.dll

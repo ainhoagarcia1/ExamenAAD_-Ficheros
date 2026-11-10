@@ -1,0 +1,37 @@
+1. Club Baloncesto Breogán 
+        Victorias: 22 | Derrotas: 12
+2. Bàsquet Girona 
+        Victorias: 21 | Derrotas: 13
+3. Club Baloncesto Canarias 
+        Victorias: 20 | Derrotas: 14
+4. Unicaja Baloncesto 
+        Victorias: 19 | Derrotas: 15
+5. Real Madrid Baloncesto 
+        Victorias: 19 | Derrotas: 15
+6. Club Baloncesto Gran Canaria 
+        Victorias: 19 | Derrotas: 15
+7. Basket Zaragoza 
+        Victorias: 18 | Derrotas: 16
+8. Club Baloncesto San Pablo Burgos 
+        Victorias: 17 | Derrotas: 17
+9. Valencia Basket 
+        Victorias: 17 | Derrotas: 17
+10. UCAM Murcia Club de Baloncesto 
+        Victorias: 17 | Derrotas: 17
+11. Bàsquet Manresa 
+        Victorias: 16 | Derrotas: 18
+12. Saski Baskonia 
+        Victorias: 15 | Derrotas: 19
+13. Fundación Club Baloncesto Granada 
+        Victorias: 15 | Derrotas: 19
+14. Força Lleida Club Esportiu 
+        Victorias: 15 | Derrotas: 19
+15. Bàsquet Club Andorra 
+        Victorias: 15 | Derrotas: 19
+16. FC Barcelona Baloncesto 
+        Victorias: 15 | Derrotas: 19
+17. Club Joventut Badalona 
+        Victorias: 13 | Derrotas: 21
+18. Bilbao Basket 
+        Victorias: 13 | Derrotas: 21
+
